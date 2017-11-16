@@ -11,6 +11,7 @@
   "bin": {
     "mixpanel-tail": "./bin/index.js"
   },
+  "repository": "toriihq/mixpanel-tail",
   "keywords": [
     "mixpanel",
     "tail",
