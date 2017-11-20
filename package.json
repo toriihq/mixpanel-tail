@@ -1,8 +1,8 @@
 {
   "name": "mixpanel-tail",
   "description": "Live stream Mixpanel events to your terminal with programmatic API",
-  "version": "0.0.6",
-  "main": "./bin/index.js",
+  "version": "0.0.7",
+  "main": "./src/index.js",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.17.1",
